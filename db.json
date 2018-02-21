@@ -1,1 +1,19 @@
-{"Department": [{"DepartmentID":1,"Name":"Engineering","GroupName":"Research and Development"}]}
+{
+  "Department": [
+    {
+      "DepartmentID": 1,
+      "Name": "Engineering",
+      "GroupName": "Research and Development"
+    },
+    {
+      "DepartmentID": 2,
+      "Name": "Engineering1",
+      "GroupName": "Research and Development"
+    },
+    {
+      "DepartmentID": 3,
+      "Name": "Engineering2",
+      "GroupName": "Research and Development"
+    }
+  ]
+}
